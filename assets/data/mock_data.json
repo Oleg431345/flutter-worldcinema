@@ -1,0 +1,19 @@
+{
+  "collections": [
+    {
+      "id": "favorites",
+      "name": "Избранное",
+      "iconName": "star"
+    },
+    {
+      "id": "later",
+      "name": "Когда-нибудь",
+      "iconName": "watch_later"
+    },
+    {
+      "id": "travel",
+      "name": "В поездку",
+      "iconName": "flight"
+    }
+  ]
+}
